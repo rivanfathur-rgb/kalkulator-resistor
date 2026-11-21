@@ -6,7 +6,7 @@ Kalkulator kode warna resistor berbasis web untuk resistor **3, 4, 5, dan 6 gela
  
 ## Demo
  
-<!-- VIDEO: seret file vid.mp4 dari komputer ke baris kosong di bawah ini saat mengedit di github.com -->
+![Demo Kalkulator Resistor](docs/demo.gif)
 
  
 <p align="center">
